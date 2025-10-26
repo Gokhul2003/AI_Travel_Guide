@@ -5,7 +5,10 @@ A **full-stack AI-powered travel Guide** that helps users create **personalized 
 Users can input trip details like **location, number of days, budget, and travelers**, and instantly receive an **AI-generated itinerary** with maps, images, and hotel suggestions.
 
 ---
+## 🎥 Demo Video
+<h3 align="center">Watch the full walkthrough of the Trip Planner Web App in action 👇  </h3>
 
+---
 ## 🚀 Features
 
 - 🤖 AI-generated itineraries (customized by destination, budget, and duration)
