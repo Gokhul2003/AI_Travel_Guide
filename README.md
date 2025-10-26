@@ -157,11 +157,4 @@ Want to improve this project? Follow these steps:
 📧 *[thegokhul.kooranchi@gmail.com](mailto:gokhulkooranchi@gmail.com)*
 💻 MCA Student | Web Developer | AI Enthusiast
 
----
-
----
-
 > ⚙️ *Built with ❤️ using React, Firebase, and Google Generative AI.*
-
-```
-
