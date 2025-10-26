@@ -1,4 +1,4 @@
-# 🧭Full-Stack Ai Travel Guide Web App
+<h1 align="center">🧭 Full-Stack Trip Planner Web App</h1>
 
 A **full-stack AI-powered travel Guide** that helps users create **personalized travel itineraries** with hotel recommendations, attractions, and local insights — all in one platform.
 
