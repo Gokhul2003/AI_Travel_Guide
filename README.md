@@ -8,7 +8,12 @@ Users can input trip details like **location, number of days, budget, and travel
 ## 🎥 Demo Video
 <h3 align="center">Watch the full walkthrough of the Trip Planner Web App in action 👇  </h3>
 
+https://github.com/user-attachments/assets/03a8a870-2cfc-4408-a710-4230e72cdb20
+
 ---
+
+
+
 ## 🚀 Features
 
 - 🤖 AI-generated itineraries (customized by destination, budget, and duration)
@@ -97,6 +102,10 @@ VITE_TOMTOM_API_KEY=your_tomtom_api_key
 VITE_GOOGLE_AUTH_CLIENT_ID=your_google_auth_client_id
 VITE_GOOGLE_GEMINI_AI_API_KEY=your_google_generative_ai_api_key
 ```
+
+
+Uploading Demo_Ai_Travel_Guide (1).mp4…
+
 
 ### 3️⃣ Get Your API Keys
 
